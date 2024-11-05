@@ -60,9 +60,7 @@ const Hero = () => {
         <a href="#highlights" className="btn">
           Buy
         </a>
-        <p className="font-normal text-xl">
-          Ab 1.199 € oder 49,96 €/Rate bei 24 Raten mit 0 % eff. Zins p.a.◊
-        </p>
+        <p className="font-normal text-xl">From $199/month or $999</p>
       </div>
     </section>
   );
