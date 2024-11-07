@@ -6,6 +6,7 @@ import HowItWorks from "./components/HowItWorks";
 
 import * as Sentry from "@sentry/react";
 import Features from "./components/Features";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Model></Model>
       <Features></Features>
       <HowItWorks></HowItWorks>
+      <Footer></Footer>
     </main>
   );
 };
